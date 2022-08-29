@@ -1,16 +1,23 @@
-# flutter_bootcamp_homework5
+# Flutter Bootcamp Homework (calc)
 
-A new Flutter project.
+Sadece toplama işlemi yapan hesap makinesi
 
-## Getting Started
+## Ekran Çıktıları
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/9364520/187227767-db77aad7-da59-4523-a76a-972b0333dae2.png" alt="ss" height="450"/>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/9364520/187227778-ae7c9b02-e049-4bda-b211-9369fb7ba9b7.png" alt="ss" height="450"/>
+    </td>
+  
+  </tr>
+ 
+</table>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
